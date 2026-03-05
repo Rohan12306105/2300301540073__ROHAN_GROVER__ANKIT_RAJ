@@ -1,0 +1,6 @@
+cd "C:\Users\nivh\Music\Coding\2300301540073__ROHAN_GROVER__ANKIT_RAJ"
+git status
+git add . 
+git commit -m "Added / Updated problems" 
+git push -u origin main
+.
